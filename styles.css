@@ -31,7 +31,7 @@ header {
 
 /* Faixa lateral esquerda */
 .sidebar {
-    background-color: #7D00DD; /* Cor roxa */
+    background-color: #808080; /* Cor roxa */
     width: 130px;
     padding: 20px;
     height: 100; /* Garante que a barra lateral ocupe toda a altura da página */
