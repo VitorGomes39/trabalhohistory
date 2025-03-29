@@ -7,7 +7,7 @@
 
 /* Cor de fundo principal */
 body {
-    background-color: #008000; /* Fundo preto */
+    background-color: #000000; /* Fundo preto */
     color: #FFFFFF; /* Texto branco */
     font-family: Arial, sans-serif;
     display: flex;
@@ -17,7 +17,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #7D00DD; /* Cor roxa */
+    background-color: #d3d3d3; /* Cor roxa */
     color: #FFFFFF; /* Texto branco */
     padding: 20px;
     text-align: center;
